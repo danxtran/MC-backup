@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-12-26 23:26:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-21 01:47:27 -0700"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-27 01:06:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-12-21 01:14:34 -0700"
@@ -415,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-27 01:06:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-12-21 01:51:24 -0700"
@@ -454,6 +472,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-12-22 18:02:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-27 01:06:34 -0700"
     },
     "done": true
   },
@@ -499,6 +523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-27 01:06:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-12-21 01:19:34 -0700"
@@ -520,6 +550,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2021-12-22 16:30:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-12-26 23:26:40 -0700"
     },
     "done": true
   },
@@ -886,6 +922,7 @@
       "minecraft:slime": "2021-12-21 02:55:00 -0700",
       "minecraft:zombified_piglin": "2021-12-22 16:40:48 -0700",
       "minecraft:wither_skeleton": "2021-12-22 20:48:51 -0700",
+      "minecraft:piglin": "2021-12-26 23:24:18 -0700",
       "minecraft:enderman": "2021-12-21 02:57:20 -0700",
       "minecraft:zombie": "2021-12-21 01:47:49 -0700",
       "minecraft:zombie_villager": "2021-12-21 02:57:58 -0700"
@@ -907,6 +944,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-12-22 15:59:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-12-26 22:47:02 -0700"
     },
     "done": true
   },
@@ -967,6 +1010,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-22 18:16:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-12-26 22:47:02 -0700"
     },
     "done": true
   },
@@ -1072,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-12-26 22:42:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-22 18:16:44 -0700"
@@ -1147,6 +1202,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-12-21 01:30:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-12-26 22:47:21 -0700"
     },
     "done": true
   },
@@ -1324,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-27 01:06:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-12-21 02:57:21 -0700"
@@ -1339,6 +1406,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-21 01:33:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-12-26 23:26:40 -0700"
     },
     "done": true
   },
@@ -1417,6 +1490,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-12-21 01:43:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-12-26 23:30:35 -0700"
     },
     "done": true
   },
@@ -1507,6 +1586,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-12-21 02:28:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2021-12-27 01:36:40 -0700"
     },
     "done": true
   },
@@ -1638,6 +1723,7 @@
       "minecraft:dark_forest": "2021-12-21 01:16:21 -0700",
       "minecraft:river": "2021-12-21 01:15:34 -0700",
       "minecraft:swamp": "2021-12-21 01:13:53 -0700",
+      "minecraft:forest": "2021-12-26 22:42:15 -0700",
       "minecraft:lush_caves": "2021-12-21 01:36:53 -0700",
       "minecraft:ocean": "2021-12-21 01:14:35 -0700"
     },
@@ -1658,6 +1744,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-22 18:16:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-12-26 23:30:35 -0700"
     },
     "done": true
   },
@@ -1739,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-12-26 23:08:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-12-21 01:39:08 -0700"
@@ -1796,6 +1894,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-22 18:16:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-12-26 22:47:21 -0700"
     },
     "done": true
   },
@@ -1937,6 +2041,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-12-21 03:25:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-27 01:06:34 -0700"
     },
     "done": true
   },
