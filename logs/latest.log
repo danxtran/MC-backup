@@ -50,3 +50,80 @@
 [03:59:52] [Server thread/INFO]: Cloddity[/76.126.121.76:60400] logged in with entity id 240 at (369.0474694718829, 65.0, 5822.886183825418)
 [03:59:52] [Server thread/INFO]: Cloddity joined the game
 [04:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04:21:23] [User Authenticator #2/INFO]: UUID of player llenn__chan is c31aa36e-9704-4665-8ed6-fc5ce852099b
+[04:21:23] [Server thread/INFO]: llenn__chan[/67.169.140.175:49172] logged in with entity id 12543 at (76.82614700594293, 20.0, 444.34318939603713)
+[04:21:23] [Server thread/INFO]: llenn__chan joined the game
+[04:21:30] [Server thread/INFO]: <Cloddity> yo
+[04:21:35] [Server thread/INFO]: <llenn__chan> pain
+[04:21:45] [Server thread/INFO]: <Cloddity> yeah it reset a bit
+[04:21:47] [Server thread/INFO]: <llenn__chan> I'm trying to figure out how to update the backup
+[04:21:49] [Server thread/INFO]: <Cloddity> like 1-2 min
+[04:21:53] [Server thread/INFO]: <Cloddity> ?
+[04:21:56] [Server thread/INFO]: <llenn__chan> and that's not too bad
+[04:22:01] [Server thread/INFO]: <llenn__chan> I'm trying to figure out how to commit
+[04:22:02] [Server thread/INFO]: <llenn__chan> and push
+[04:22:05] [Server thread/INFO]: <Cloddity> O
+[04:22:07] [Server thread/INFO]: <llenn__chan> the server
+[04:22:10] [Server thread/INFO]: <llenn__chan> via remote
+[04:22:11] [Server thread/INFO]: <llenn__chan> terminal
+[04:22:12] [Server thread/INFO]: <Cloddity> do u use github desktop
+[04:22:15] [Server thread/INFO]: <llenn__chan> I can't
+[04:22:17] [Server thread/INFO]: <Cloddity> oh
+[04:22:21] [Server thread/INFO]: <Cloddity> uhh
+[04:22:22] [Server thread/INFO]: <llenn__chan> it's a VM
+[04:22:24] [Server thread/INFO]: <Cloddity> :blobsweat:
+[04:22:30] [Server thread/INFO]: <Cloddity> download github desktop on the VM
+[04:22:31] [Server thread/INFO]: <llenn__chan> so I'm literally running it all thru a terminal
+[04:22:32] [Server thread/INFO]: <llenn__chan> lmao
+[04:22:35] [Server thread/INFO]: <Cloddity> O
+[04:22:40] [Server thread/INFO]: <llenn__chan> all I see is text
+[04:22:41] [Server thread/INFO]: <Cloddity> it doesn't have an OS installed?
+[04:22:45] [Server thread/INFO]: <llenn__chan> windows
+[04:22:48] [Server thread/INFO]: <llenn__chan> but I can't see shit
+[04:22:54] [Server thread/INFO]: <llenn__chan> since I'm just remoting to it
+[04:22:56] [Server thread/INFO]: <llenn__chan> via ssh
+[04:23:11] [Server thread/INFO]: <llenn__chan> so it's like a windows ubuntu thing
+[04:23:16] [Server thread/INFO]: <llenn__chan> idk exactly how it works
+[04:24:02] [Server thread/INFO]: <llenn__chan> aight
+[04:24:06] [Server thread/INFO]: <llenn__chan> it's pushing now
+[04:24:07] [Server thread/INFO]: <llenn__chan> finally
+[04:24:13] [Server thread/INFO]: <Cloddity> noice
+[04:24:16] [Server thread/INFO]: <llenn__chan> there should be the second crash report in the new backup
+[04:24:28] [Server thread/INFO]: <llenn__chan> that would indicate it saved relateively correctly
+[04:25:10] [Server thread/INFO]: <llenn__chan> gonna put laundry in dryer
+[04:25:22] [Server thread/INFO]: <llenn__chan> then slep after I confirm backup is up and runnin
+[04:25:29] [Server thread/INFO]: <Cloddity> sounds gud
+[04:25:30] [Server thread/INFO]: <llenn__chan> could you get me some slimeballs
+[04:25:38] [Server thread/INFO]: <llenn__chan> and them materials
+[04:25:46] [Server thread/INFO]: <llenn__chan> for summoning the ender dragon again
+[04:26:03] [Server thread/INFO]: <llenn__chan> I want to kill it asap so I can build the concrete farm without worry
+[04:26:09] [Server thread/INFO]: <llenn__chan> xd
+[04:26:18] [Server thread/INFO]: <Cloddity> sure if u can help
+[04:26:26] [Server thread/INFO]: <Cloddity> its a lot of materials methinks
+[04:26:29] [Server thread/INFO]: <Cloddity> blobsweat
+[04:27:06] [Server thread/INFO]: <Cloddity> still trying to go home from 4.5k blocks away
+[04:29:36] [Server thread/INFO]: <llenn__chan> ok it half works
+[04:29:45] [Server thread/INFO]: <llenn__chan> I need to figure out what the command is to add all new files
+[04:29:54] [Server thread/INFO]: <llenn__chan> rn it just updated existing ones
+[04:30:58] [Server thread/INFO]: <Cloddity> interesting
+[04:31:03] [Server thread/INFO]: <Cloddity> i thought pushing would do both
+[04:31:15] [Server thread/INFO]: <llenn__chan> apparently not
+[04:31:18] [Server thread/INFO]: <llenn__chan> let me uhh
+[04:31:23] [Server thread/INFO]: <llenn__chan> stop the server for a minute
+[04:31:32] [Server thread/INFO]: <llenn__chan> to fully update the backup
+[04:31:35] [Server thread/INFO]: <Cloddity> gotcha
+[04:31:38] [Server thread/INFO]: [llenn__chan: Saved the game]
+[04:31:39] [Server thread/INFO]: <Cloddity> no progress will be lost right?
+[04:31:55] [Server thread/INFO]: Stopping the server
+[04:31:55] [Server thread/INFO]: Stopping server
+[04:31:55] [Server thread/INFO]: Saving players
+[04:31:55] [Server thread/INFO]: Cloddity lost connection: Disconnected
+[04:31:55] [Server thread/INFO]: Cloddity left the game
+[04:31:55] [Server thread/INFO]: Saving worlds
+[04:31:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:31:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:31:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:31:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
